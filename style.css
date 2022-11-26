@@ -1,0 +1,468 @@
+#head
+{   margin-left: 200px;
+    color: #fff;
+
+}
+body{
+    
+    margin: 0px;
+}
+
+.header{
+    padding-top: 10px;
+    background-color:black;
+    width: 100%;
+    height: 70px;
+    margin-top: 0px;
+    
+}
+.menu
+{
+    
+    height: 40px;
+    width: 600px;
+    margin-left: 750px;
+    margin-top: -55px;
+    padding-top: 20px;
+
+}
+.logo 
+{
+    margin-top: 10px;
+    margin-left: 150px;
+    width: 150px;
+    height: 47px;
+}
+.box-1
+{ width: 100%;
+    height: 679px;
+    background-color: rgb(165, 15, 184);
+    background-image: url("https://www.scdn.co/i/free/bubbles-mobile.svg");
+    
+}
+.box-2
+{
+    
+    background-color:#fff;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+}
+
+.box-3
+{
+    height: 200px;
+    text-align: center;
+    width: 100%;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+    padding: 200px 0px;
+
+}
+.box-4
+{
+    background-color:#fff;
+    height: 500px;
+    width: 100%;
+    padding: 10px 10px;
+}
+.box-5
+{
+    background-image: url("	https://www.scdn.co/i/free/bubbles-dktp.svg");
+    height: 375px;
+    width: 100%;
+    background-color:rgb(176, 35, 194) ;
+
+}
+.box-6
+{
+    height: 604px;
+    width: 100%;
+    background-color: black;
+    padding-top: 30px;
+
+}
+.iphone
+{
+    background-color:white;
+    width: 322px;
+    height: 607px;
+    float: left;
+    margin-left: 120px;
+    margin-top: 65px;
+    border-radius: 40px;
+}
+.speeker
+{
+    background-color: black;
+    width: 50px;
+    height: 8px;
+    margin: 42px 136px;
+    border-radius: 40px;
+}
+.box-12
+{
+    margin-top: 132px;
+    margin-left: 700px;
+    width: 600px;
+    height: 467px;
+    text-align: center;
+    color: #fff;
+    padding-top: 130px;
+}
+.box-121
+{
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    color: #fff;
+    font-size: 64px;
+    margin:30px 10px;
+    font-weight: 900;
+    letter-spacing: -1.92px;
+    padding-bottom: 0px;
+}
+.menu-1
+{
+    color: #fff;
+    margin:20px 20px;
+    text-decoration: none;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight:bold;
+
+    
+}
+
+
+#menu-1
+{
+    margin-left: 0px;
+
+}
+.menu-1:hover
+{
+ color:rgb(44, 213, 44);
+}
+#menu
+{
+    color: #fff;
+    font-size:20px ;
+}
+.button
+{
+
+ height:40px;
+ width: 180px;
+ border-radius: 40px;
+ border-color:transparent;
+ font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+ font-weight: bold;
+ color: black;
+}
+.image
+{
+    height: 463px;
+    width: 311px;
+    margin-top:-21px;
+    margin-left: 5px;
+
+}
+.why
+{
+    text-align: center;
+    letter-spacing: -0.015em;
+    font-weight: 900;
+    margin: 80px 50px;
+    margin-right: 60px;
+    font-size: 45;
+}
+.list
+{
+    height: 350px;
+    width: 1300px;
+    margin: -45px 70px;
+
+}
+.list-1
+{
+ margin: 25px 65px;
+}
+.list-2
+{
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 21px;
+    padding: 0px;
+    line-height: 1.3em;
+    margin: 3px 70px;
+    text-align: center;
+}
+.list-3
+{
+    font-size: 16px;
+    width: 85%;
+    margin: 1px 35px;
+    padding: 10px 10px;
+    text-align: center;
+}
+.box-31
+{
+    margin: 10px 10px;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    font-size: 48px;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    padding: 2px 15px;
+}
+.box-41
+{
+    text-align: center;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    
+}
+.box-411
+{
+height: 70px;
+width: 950px;
+margin: 10px 200px;
+padding-top: 20px;
+}
+.box-412
+{
+height: 70px;
+width: 950px; 
+margin: 10px 200px;
+padding-top: 20px;
+}
+.box-413
+{
+height: 70px;
+width: 950px; 
+margin: 10px 200px; 
+padding-top: 20px;
+}
+.box-414
+{
+height: 70px;
+width: 950px;   
+margin: 10px 200px;
+padding-top: 20px;
+}
+.box-51
+{
+    font-size: 80px;
+    padding: 110px 100px;
+    text-align: center;
+    color: #fff;
+    font-weight: 900;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    
+}
+.button-1
+{
+    height:40px;
+ width: 180px;
+ border-radius: 40px;
+ border-color:transparent;
+ font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+ font-weight: bold;
+ color: black;
+margin: -130px 602px;
+}
+.box-61
+{
+height:100px;
+width: 250px; 
+margin: 10px 10px;
+margin-top: 0px;
+float: left;
+}
+.box-62
+{
+    height: 349px;
+    width: 700px;
+    margin: 69px 70px;
+    margin-top: 50px;
+    float: left;
+    }
+
+.box-63
+{
+    height:100px;
+    width: 300px; 
+    margin: 150px 1100px;
+    margin-top: 0px;
+    padding: 20px 20px;
+    }
+
+.box-64
+{
+    height: 85px;
+    width: 1300px; 
+    margin-left: 85px;
+    margin-top: 348px;
+    padding-top: 30px;
+
+ }
+ .logo-2
+{
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 150px;
+    height: 47px;
+}
+.table-1
+{
+    color: #fff;
+    margin:20px 20px;
+    text-decoration: none;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight:bold;
+    padding: 20px 20px;
+
+}
+.table-1:hover
+{
+    color:rgb(44, 213, 44);
+}
+.circle-1
+{
+    border-radius: 50%;
+    background-color: #222326;
+    height: 65px;
+    width: 65px;
+    float: left;
+    margin-left: 104px;
+}
+.circle-2
+{
+    border-radius: 50%;
+    background-color: #222326;
+    height: 65px;
+    width: 65px;
+    float: left;
+    margin-left: 33px;
+}
+.circle-3
+{
+    border-radius: 50%;
+    background-color: #222326;
+    height: 65px;
+    width: 65px;
+    margin-left: 10px;
+}
+.instagram
+{
+    background-color: #fff;
+    height: 42px;
+    width: 42px;
+    margin: -53px 12px;
+}
+.twiter
+{
+    background-color: #fff;
+    height: 42px;
+    width: 42px;
+    margin: 12px 13px;   
+}
+.facebook
+{
+    background-color: #fff;
+    height: 42px;
+    width: 42px;
+    margin: 12px 10px;   
+}
+.instagram:hover
+{
+  background-color:rgb(44, 213, 44);
+}
+.twiter:hover
+{
+    background-color:rgb(44, 213, 44);
+}
+.facebook:hover
+{
+    background-color:rgb(44, 213, 44);
+}
+.box-641
+{
+    margin: 10px 59px;
+    height: 36px;
+    width: 500px;
+    margin: 1px 42px;
+    margin: -24px 60px;
+    padding-top: 40px;
+    height: 69px;
+
+}
+
+.box-642
+{
+    height: 70px;
+    width: 90px;  
+    margin: -97px 1160px;
+    padding-top: 14px;
+}
+.footer-table
+{
+    text-decoration: none;
+    color: #919496;
+    font-size: 12px;
+    font-size: 16px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    margin: 20px 6px;
+}
+.footer-box
+{
+font-size: 10px;
+text-decoration: none;
+color: #919496;
+margin-top: 10px;
+margin-left: 10px;
+}
+.footer-table:hover
+{
+   color:rgb(44, 213, 44);
+}
+.footer-box:hover
+{
+    color:rgb(44, 213, 44);
+}
+.box-41list
+{
+    margin-top: 12px;
+    margin-left: 30px;
+    color: var(--text-base,#000);
+    font-size: 18px;
+    font-weight: 900;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+}
+.box-41list:hover
+{
+    text-decoration: underline;
+}
+.box-411:hover
+{
+background-color: var(--background-elevated-highlight,#f0f0f0);
+}
+
+.box-412:hover
+{
+background-color: var(--background-elevated-highlight,#f0f0f0);
+}
+.box-413:hover
+{
+background-color: var(--background-elevated-highlight,#f0f0f0);
+}
+.box-414:hover
+{
+background-color: var(--background-elevated-highlight,#f0f0f0);
+}
+
+
+
+
